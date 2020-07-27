@@ -1,7 +1,7 @@
 # 👨‍💻 Hello, I'm Alessandro Dias!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dias-ale/)](https://www.linkedin.com/in/dias-ale/)
 
-Welcome to my profile! Here you can find some informations about me my work.
+Welcome to my profile! Here you can find some informations about me and my work
 
 ## 📝 About Me
 - I'm 27 years old 👨🏻‍🦱
