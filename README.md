@@ -11,7 +11,7 @@ Welcome to my profile! Here you can find some informations about me my work.
 
 ---
 
-## Front End Stack
+### » Front End Stack
 
 <table border="0">
   <tbody>
@@ -60,7 +60,7 @@ Welcome to my profile! Here you can find some informations about me my work.
 
 ---
 
-## Back End Stack
+### » Back End Stack
 
 <table border="0">
   <tbody>
@@ -105,7 +105,7 @@ Welcome to my profile! Here you can find some informations about me my work.
 
 ---
 
-## Tools
+### » Tools
 
 <table border="0">
   <tbody>
@@ -132,6 +132,6 @@ Welcome to my profile! Here you can find some informations about me my work.
 
 ---
 
-## Where you can find me
+### Where you can find me
 
 <a href="https://www.linkedin.com/in/dias-ale/"><img src="https://cdn.svgporn.com/logos/linkedin.svg" height="30"/></a>
