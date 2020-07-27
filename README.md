@@ -17,42 +17,42 @@ Welcome to my profile! Here you can find some informations about me my work.
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/html-5.svg">
         <p>𝗛𝗧𝗠𝗟𝟱</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/css-3.svg">
         <p>𝗖𝗦𝗦𝟯</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/javascript.svg">
         <p>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/vue.svg">
         <p>𝗩𝘂𝗲</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/react.svg">
         <p>React</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/react.svg">
         <p>React Native</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/redux.svg">
         <p>Redux</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/sass.svg">
         <p>SASS</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
         <p>TypeScript</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
     </tr>
   </tbody>
@@ -66,38 +66,38 @@ Welcome to my profile! Here you can find some informations about me my work.
   <tbody>
     <tr>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/laravel.svg">
         <p>Laravel</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
         <p>WordPress</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://adonisjs.com/images/badge.svg">
         <p>AdonisJS</p>
+        <img height="32" src="https://adonisjs.com/images/badge.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/express.svg">
         <p>Express</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
     </tr>
     <tr>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/lumen.svg">
         <p>Lumen</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/lumen.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/php.svg">
         <p>PHP</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/nodejs.svg">
         <p>Node</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/mysql.svg">
         <p>MySQL</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
   </tbody>
@@ -111,20 +111,20 @@ Welcome to my profile! Here you can find some informations about me my work.
   <tbody>
     <tr>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/git-icon.svg">
         <p>Git</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         <p>VS Code</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://www.photoshop.com/static/images/apps/photoshop.png">
         <p>PhotoShop</p>
+        <img height="32" src="https://www.photoshop.com/static/images/apps/photoshop.png">
       </td>
       <td width="20%" align="center">
-        <img height="32" src="https://cdn.svgporn.com/logos/sketch.svg">
         <p>Sketch</p>
+        <img height="32" src="https://cdn.svgporn.com/logos/sketch.svg">
       </td>
     </tr>
   </tbody>
