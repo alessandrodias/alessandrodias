@@ -1,4 +1,4 @@
-# 🤩 Hello, I'm Alessandro Dias!
+# 👨‍💻 Hello, I'm Alessandro Dias!
 
 Welcome to my profile! Here you can find some informations about me my work.
 
