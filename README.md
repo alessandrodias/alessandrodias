@@ -12,7 +12,7 @@ Welcome to my profile!
 
 ### Frontend Stack
 
-𝗛𝗧𝗠𝗟, CSS, SASS, JavaScript, Vue, React, React Native, Redux, TypeScript (learning)
+HTML, CSS, SASS, JavaScript, Vue, React, React Native, Redux, TypeScript (learning)
 
 ---
 
