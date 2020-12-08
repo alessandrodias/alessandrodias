@@ -1,5 +1,4 @@
 # Alessandro Dias - Front end web developer 💻
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dias-ale/)](https://www.linkedin.com/in/dias-ale/)
 
 ### About Me
 - 🇧🇷 &nbsp;&nbsp; brazilian
@@ -19,4 +18,6 @@ I'm currently working with technologies such as: HTML, CSS, JavaScript (React.js
 
 ### Contact Me
 
-✉️ &nbsp;&nbsp; [Email](mailto:ale.bruno.dias@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dias-ale/)](https://www.linkedin.com/in/dias-ale/)
+<br><br>
+📩 &nbsp;&nbsp; [Email](mailto:ale.bruno.dias@gmail.com)
