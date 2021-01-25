@@ -1,4 +1,11 @@
-# Alessandro Dias - Front end web developer 💻
+# Hi, I'm Alessandro Dias 👋
+*Front end developer*
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/alessandrodias/alessandrodias)](https://github.com/alessandrodias/alessandrodias)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dias-ale/)](https://www.linkedin.com/in/dias-ale/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ale.bruno.dias@gmail.com)](mailto:ale.bruno.dias@gmail.com)
+
+---
 
 ### About Me 
 - 🇧🇷 &nbsp;&nbsp; brazilian
@@ -26,11 +33,3 @@ I've been working as Frontend Developer for the last 7 years. I have experience 
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 I'm currently working with technologies such as: HTML, CSS, JavaScript (React.js / Vue.js), WebPack, Git, Jest. I also had experience in backend development, with Node.js (Adonis) and PHP (Laravel, WordPress) frameworks. I'm learning Typescript.
-
----
-
-### Contact Me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/alessandrodias/alessandrodias)](https://github.com/alessandrodias/alessandrodias)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dias-ale/)](https://www.linkedin.com/in/dias-ale/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ale.bruno.dias@gmail.com)](mailto:ale.bruno.dias@gmail.com)
