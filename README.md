@@ -10,7 +10,6 @@
 ### About Me 
 - 🇧🇷 &nbsp;&nbsp; brazilian
 - 💻 &nbsp;&nbsp; bachelor's degree in Information Systems
-- 🙍🏻‍♂️ &nbsp;&nbsp; I'm 28 years old
 - 🌎 &nbsp;&nbsp; languages: Portuguese / English
 
 I've been working as Frontend Developer for the last 7 years. I have experience working with React.js and Vue.js. I have already worked in large scale apps, and in several types of projects. I can speak English and Portuguese fluently. I love building things for the web.
@@ -24,6 +23,7 @@ I've been working as Frontend Developer for the last 7 years. I have experience 
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-VueJS-41B883?style=flat&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-gatsby-362066?style=flat&logo=gatsby)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat&logo=webpack&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-f00?style=flat&logo=jest&logoColor=white)
@@ -32,4 +32,4 @@ I've been working as Frontend Developer for the last 7 years. I have experience 
 ![Laravel](https://img.shields.io/badge/-Laravel-FB503B?style=flat&logo=laravel&logoColor=black)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-I'm currently working with technologies such as: HTML, CSS, JavaScript (React.js / Vue.js), WebPack, Git, Jest. I also had experience in backend development, with Node.js (Adonis) and PHP (Laravel, WordPress) frameworks. I'm learning Typescript.
+I'm currently working with technologies such as: HTML, CSS, JavaScript, React.js, Vue.js, Gatsby, WebPack, Git, Jest. I also had experience in backend development, with Node.js (Adonis) and PHP (Laravel, WordPress) frameworks. I'm learning Typescript.
