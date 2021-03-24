@@ -1,5 +1,5 @@
 # Hi, I'm Alessandro Dias 👋
-*Front end developer*
+*Frontend developer*
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/alessandrodias/alessandrodias)](https://github.com/alessandrodias/alessandrodias)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dias-ale/)](https://www.linkedin.com/in/dias-ale/)
